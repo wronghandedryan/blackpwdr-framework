@@ -1,2 +1,2 @@
-const mongoose-bcrypt = require(''mongoose - bcrypt);
+const mongooseBcrypt = require(''mongoose-bcrypt);
 
